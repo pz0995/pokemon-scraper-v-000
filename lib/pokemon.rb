@@ -45,4 +45,3 @@ attr_accessor :id, :name, :type, :db
   # def bonus
   #   db.execute('ALTER TABLE pokemon ADD hp VARCHAR(200) DEFAULT 60;')
   # end
-
